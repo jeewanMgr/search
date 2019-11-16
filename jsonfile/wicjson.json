@@ -1,0 +1,56 @@
+[
+  {
+    "Household Size *": 1,
+    "Yearly Income": "$20,665",
+    "Monthly Income": "$1,723",
+    "Weekly Income": "$398"
+  },
+  {
+    "Household Size *": 2,
+    "Yearly Income": "$27,991",
+    "Monthly Income": "$2,333",
+    "Weekly Income": "$539"
+  },
+  {
+    "Household Size *": 3,
+    "Yearly Income": "$35,317",
+    "Monthly Income": "$2,944",
+    "Weekly Income": "$680"
+  },
+  {
+    "Household Size *": 4,
+    "Yearly Income": "$42,643",
+    "Monthly Income": "$3,554",
+    "Weekly Income": "$821"
+  },
+  {
+    "Household Size *": 5,
+    "Yearly Income": "$49,969",
+    "Monthly Income": "$4,165",
+    "Weekly Income": "$961"
+  },
+  {
+    "Household Size *": 6,
+    "Yearly Income": "$57,295",
+    "Monthly Income": "$4,775",
+    "Weekly Income": "$1,102"
+  },
+  {
+    "Household Size *": 7,
+    "Yearly Income": "$64,621",
+    "Monthly Income": "$5,386",
+    "Weekly Income": "$1,243"
+  },
+  {
+    "Household Size *": 8,
+    "Yearly Income": "$71,947",
+    "Monthly Income": "$5,996",
+    "Weekly Income": "$1,384"
+  },
+  {
+    "Household Size *": "For each additional person add:",
+    "Yearly Income": "$7,326",
+    "Monthly Income": "$611",
+    "Weekly Income": "$141"
+  }
+]
